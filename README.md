@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/5G98t8QjqBLK8/giphy.gif">
+
 # Mean Girl Missing
 
 Remember the 2004 cult movie "Mean Girls"? 
