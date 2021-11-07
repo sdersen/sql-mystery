@@ -15,5 +15,5 @@ When you think you know which hotel she is at enter:
     ```sql
     INSERT INTO solution VALUES (1, "Hotel name");
 
-    SELECT value FROM solution;
+    SELECT answer FROM solution;
     ```
