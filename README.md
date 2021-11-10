@@ -12,9 +12,9 @@ You have to find her location and you only have five minutes.
 3. Start by finding her case in missing_persons.
 
 When you think you know which hotel she is at enter:
-´´´
+
 INSERT INTO solution VALUES (1, "Hotel name");
 SELECT answer FROM solution; 
-´´´
+
    
  
