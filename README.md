@@ -18,3 +18,5 @@ INSERT INTO solution VALUES (1, "Hotel name");
 SELECT answer FROM solution; 
 
 Good Luck!
+
+<img width="871" alt="database_design" src="https://user-images.githubusercontent.com/81019781/141095014-f7b18fc9-2bec-4baf-8ee1-6d835a0113d9.png">
