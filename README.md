@@ -14,6 +14,7 @@ You have to find her location and you only have five minutes.
 When you think you know which hotel she is at enter:
 
 INSERT INTO solution VALUES (1, "Hotel name");
+
 SELECT answer FROM solution; 
 
 Good Luck!
